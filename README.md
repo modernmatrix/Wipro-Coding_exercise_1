@@ -3,7 +3,7 @@
 ## Coding exercise 1
 
 # How to install
-### git clone https://github.com/anand5434maurya/datatransformation.git
+### git clone https://github.com/modernmatrix/Wipro-Coding_exercise_1.git
 ### cd Wipro-Coding_exercise_1
 
 # Install dependencies
