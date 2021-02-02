@@ -2,6 +2,17 @@
 
 ## Coding exercise 1
 
+# How to install
+### git clone https://github.com/anand5434maurya/datatransformation.git
+### cd Wipro-Coding_exercise_1
+
+# Install dependencies
+### npm install
+
+# How to run
+### node index.js
+
+# Requierments
 ### Expose a POST endpoint which accepts an input JSON object with payload, referenceData and returns a transformedPayload (JSON).
 
 ### The POST API should substitute the {REF_*} values in payload using refernceData and return the transformed payload. Upper limit for the payload size is 10MB.
